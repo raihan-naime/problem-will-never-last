@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;
+    border: solid red ;
+    border-radius: 10px;
+    border-width: 50%;
+}
+p{
+    background-color: beige;
+    border: solid red;
+    border-radius: 5px;
+    font-size: larger;
+    /* font-family: ; */
+}
